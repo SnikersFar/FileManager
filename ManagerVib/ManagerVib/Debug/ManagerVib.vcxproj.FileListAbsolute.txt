@@ -1,0 +1,4 @@
+C:\Users\uvev1\source\repos\ManagerVib\ManagerVib\Debug\ManagerVib.vcxprojAssemblyReference.cache
+C:\Users\uvev1\source\repos\ManagerVib\ManagerVib\Debug\ManagerVib.MyForm.resources
+C:\Users\uvev1\source\repos\ManagerVib\ManagerVib\Debug\ManagerVib.vcxproj.GenerateResource.cache
+C:\Users\uvev1\source\repos\ManagerVib\ManagerVib\Debug\ManagerVib.Baze.resources
